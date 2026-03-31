@@ -1,0 +1,164 @@
+.contactBody{
+    background-size: cover;
+    background-attachment: fixed;
+    height:700px;
+
+}
+.title{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 42px;
+    color: rgb(252, 252, 252);
+  }
+
+  #title-Tag-Line{
+      font-size: 20px;
+  }
+/* This will center the form */
+  .wrapper {
+    width: 80%;
+    height: 50%;
+    margin: 5% auto 0 auto; 
+  }
+
+/* form animation starts */
+  .formcliente {
+    background: #EBEBEB;
+    text-align: center; 
+    box-shadow: 0px 0px 20px 5px #AAA; 
+    border-radius: 10px;  
+    width: 45%; 
+    height: 480px;
+    margin: 30px auto 0 auto;
+    padding: 10px 10px;  
+    animation: bounce 1.5s infinite;
+  }
+
+  .formtecnico {
+    background: #EBEBEB;
+    text-align: center; 
+    box-shadow: 0px 0px 20px 5px #AAA; 
+    border-radius: 10px;  
+    width: 45%; 
+    height: 480px;
+    margin: 30px auto 0 auto;
+    padding: 10px 10px;  
+    animation: bounce 1.5s infinite;
+  }
+
+.name { 
+    background-color: #1bdfcf;
+    border-bottom: 5px solid #1bdfcf;
+    color: rgb(0, 0, 0);
+    width:300px;
+  }
+
+  ::-webkit-input-placeholder{
+      color: white;
+      font-size: 20px;
+  }
+  .name:hover{
+    background-color: #1b97df;
+    border-bottom: 5px solid #1b3fdf;
+    height:30px;
+    width:400px;
+  }
+
+  .email {
+    background-color: #1bdfcf;  
+    border-bottom: 5px solid #1b3fdf;
+    height:50px;
+    width:300px;
+    
+  }
+  .email:hover{
+    background-color: #1b97df;  
+    border-bottom: 5px solid #1b97df;
+    height:30px;
+    width:380px;
+   
+  }
+  .message {   
+    background-color: rgb(230, 108, 15);
+    border-bottom: 5px solid rgb(109, 17, 195);
+    overflow: hidden;
+    height: 100px;  
+    width:300px;
+  }
+
+  .message:hover{
+    background-color: #2DD7BB;
+    border-bottom: 5px solid #2BB09A;
+    height: 100px;
+    width:370px;
+  }
+
+  .submit{
+    border-radius:5px;
+    padding:10px;
+    background-color: #2DD7BB;  
+    border: none;
+    border-bottom: 5px solid #CB64B2; 
+    transform: translateY(-120px); 
+
+  }
+
+  .submit:hover{
+    border-bottom: 5px solid #04f818;  
+    box-shadow: 15px 15px 15px 5px rgba(78, 72, 77, 0.219);
+  }
+
+  .entry{
+    display: block;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    transition: all 0.5s ease 0s;
+    box-shadow: 0px 0px 25px 2px #AAA;  
+  }
+
+  /* Shadow to make it look like form is floating  */
+  .shadow{
+    box-shadow: 0px 0px 60px 5px #AAA;
+    opacity: 0.5;
+    border-radius: 100px;
+    width: 50%; 
+    margin: 50px auto 0 auto;
+    padding: 0 20px;  
+    animation: shadow 1.5s infinite;
+  }
+.submit{
+    border-radius:5px;
+    padding:10px;
+    width:150px;
+    color: white;
+    background-color: #2DD7BB;  
+    border: none;
+    border-bottom: 5px solid #0da7e4; 
+    margin-top: 150px; 
+
+  }
+
+
+
+  @keyframes bounce{
+    0%{
+      
+    }
+    50%{
+      transform: translate(0, 8px);
+    }
+
+  }
+  @keyframes shadow{
+    0%{
+      
+    }
+    50%{
+      opacity: 0.8;
+      width: 50%;
+    }
+  }

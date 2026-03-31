@@ -1,0 +1,162 @@
+.box_main {
+    width: 510px;
+    float: left;
+    background-color: #34495E;
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 1px 3px 20px 12px  #1baaec;
+    height: 460px;
+}
+
+
+
+.icon_1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-bottom: 20px;
+    line-height: 95px;
+}
+
+.daily_text {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    display: block;
+    color: #fff;
+    line-height: 30px;
+}
+
+
+.daily_text_1 {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    display: block;
+    color: #fff;
+    line-height: 30px;
+    padding-bottom: 40px;
+}
+
+
+
+
+.box_main:hover {
+    background-color: #1baaec;
+}
+
+
+.row {
+    position: relative;
+    left: 500px;
+}
+
+
+.proveedor {
+    position: relative;
+    top: 30px;
+    right: 150px;
+    height: 900px;
+    
+}
+
+.tecnico {
+    position: relative;
+    top: 30px;
+    right: 1px;
+}
+
+.cliente {
+    position: relative;
+    top: 30px;
+    left: 150px;
+}
+
+.contenidoGeneral {
+    background: #212F3D  ;
+  }
+  
+  
+  .menu-wrap .user {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 3em;
+    position: relative;
+    right: 26px;
+    top: -11px;
+  }
+  .menu-wrap .user .user-avatar {
+    width: 40px;
+    height: 40px;
+  }
+  
+  #imagenA {
+    width: 55px;
+    height: 55px;
+    position: relative;
+    left: 43px;
+    bottom: 22px;
+  }
+  
+  .Ad {
+    color: white;
+    position: relative;
+    bottom: 20px;
+    left: 12px;
+    font-size: 17px;
+  }
+  
+  
+  
+  .menu-wrap .user figcaption {
+    padding: 0 0 0 1em;
+    color: white;
+    font-weight: 700;
+    font-size: 0.875em;
+  }
+  
+  
+  .salir {
+    position: relative;
+    left: 1950px;
+    top: 35px;
+    padding: 14 10 7px;
+    background-color: aqua;
+    border-radius: 5vh;
+  
+  }
+  
+  header {
+    width: 1950px;
+  }
+  
+  .TABLAS {
+    position: relative;
+    right: 300px;
+  }
+
+  .tituloTA {
+    position: relative;
+    left: 1240px;
+    top: -30px;
+    font-size: 40px;
+    color: white;
+    background: #273746 ;
+    width: 600px;
+    padding-left: 90px;
+    border-radius: 1vh;
+    box-shadow: 1px 1px 15px 1px  #1baaec;
+  }
+  
+  .navegacion {
+    background: #17202A ;
+    height: 100px;
+    width: 2200px;
+  }
+  
+  

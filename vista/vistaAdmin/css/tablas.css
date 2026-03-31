@@ -1,0 +1,109 @@
+* {
+    color: rgb(158, 156, 156);
+}
+
+.fondito {
+    background: #212F3D;
+    height: 2000px;
+}
+
+
+
+
+  
+.menu-wrap .user {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 3em;
+    position: relative;
+    right: 26px;
+    top: -11px;
+  }
+  .menu-wrap .user .user-avatar {
+    width: 40px;
+    height: 40px;
+  }
+  
+  #imagenA {
+    width: 55px;
+    height: 55px;
+    position: relative;
+    left: 43px;
+    bottom: 22px;
+  }
+  
+  .Ad {
+    color: white;
+    position: relative;
+    bottom: 20px;
+    left: 12px;
+    font-size: 17px;
+  }
+  
+  
+  
+  .menu-wrap .user figcaption {
+    padding: 0 0 0 1em;
+    color: white;
+    font-weight: 700;
+    font-size: 0.875em;
+  }
+  
+  
+  .salir {
+    position: relative;
+    left: 1840px;
+    top: 35px;
+    padding: 14 10 7px;
+    background-color: aqua;
+    border-radius: 5vh;
+  
+  }
+  
+  header {
+    width: 1950px;
+  }
+  
+  .TABLAS {
+    position: relative;
+    right: 300px;
+  }
+  
+  .navegacion {
+    background: #17202A ;
+    height: 100px;
+  }
+
+
+  .tituloTA {
+    position: relative;
+    left: 190px;
+    top: -30px;
+    font-size: 40px;
+    color: white;
+    background: #273746 ;
+    width: 600px;
+    padding-left: 10px;
+    border-radius: 1vh;
+    box-shadow: 1px 1px 15px 1px  #1baaec;
+  }
+
+  .tablaCliente {
+    position: relative;
+    left: 300px;
+  }
+
+
+  .tituloTaa {
+    position: relative;
+    left: -10px;
+    top: -30px;
+    font-size: 40px;
+    color: white;
+    background: #273746 ;
+    width: 600px;
+    padding-left: 10px;
+    border-radius: 1vh;
+    box-shadow: 1px 1px 15px 1px  #1baaec;
+  }

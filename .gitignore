@@ -1,0 +1,24 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Environment / secrets
+.env
+.env.*
+
+# User generated uploads (optional, if you do not want to publish them)
+vista/user_images/
+
+# If you prefer to keep the folder but not its contents, remove the line above
+# and create a .gitkeep inside the folder.
